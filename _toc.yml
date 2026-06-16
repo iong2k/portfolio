@@ -1,5 +1,7 @@
 format: jb-book
-root: intro
-chapters:
-  - file: certificates
-  - file: maps
+roote: intro.md
+chapters:    
+      - file: certificates.md
+      - file: maps.md
+
+
