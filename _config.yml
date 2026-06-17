@@ -19,7 +19,7 @@ repository:
   branch: main
 
 html:
-  favicon: figure/favicon.png
+  favicon: figure/Ham.png
   use_issues_button: false
   use_repository_button: true
   use_edit_page_button: false
