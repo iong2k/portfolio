@@ -6,7 +6,7 @@
 
 DH2025 poster
 :::
-## **`*Maps/ 地圖`**
+## **`Maps/ 地圖`**
 ### Tourism Guide of Hōng-lîm/ 鳳林觀光案內
 :::{figure-md}
 <img src="figure/hong.png" style="width:90%;">
