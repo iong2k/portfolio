@@ -28,18 +28,18 @@ DH2025 poster
 馬太鞍溪歷史地理水文套疊堰塞湖致災影像
 :::
 
-### 豐濱鄉最小統計區人口密度比較圖（Jenks vs. Quantile）﹝豐濱鄉誌﹞
+### 豐濱鄉最小統計區人口密度比較圖(Jenks vs. Quantile)【豐濱鄉誌】
 :::{figure-md}
 <img src="figure/density.png" style="width:90%;">
 
-豐濱鄉最小統計區人口密度比較圖（Jenks vs. Quantile）
+豐濱鄉最小統計區人口密度比較圖(Jenks vs. Quantile)
 :::
 
-### Cepo'戰役（大港口事件）要圖﹝豐濱鄉誌﹞
+### Cepo'戰役(大港口事件)要圖【豐濱鄉誌】
 :::{figure-md}
 <img src="figure/Cepo'.png" style="width:90%;">
 
-Cepo'戰役（大港口事件）要圖
+Cepo'戰役(大港口事件)要圖
 :::
 
 
