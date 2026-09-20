@@ -13,6 +13,8 @@
 * [Tourism Guide of Hōng-lîm/ 鳳林觀光案內](https://iong2k.github.io/portfolio/maps.html#id2)
 * [Population Overview and Major Crops of Japanese Immigrant Villages in Eastern Taiwan During the Japanese Colonial Period/ 東臺灣官私營移民村人口概況與主要農作](https://iong2k.github.io/portfolio/maps.html#id3)
 * [Historical Hydrological Overlay of Fata'an Creek Landslide-Dammed Lake Disaster Imagery/ 馬太鞍溪歷史地理水文套疊堰塞湖致災影像](https://iong2k.github.io/portfolio/maps.html#id4)
+* [豐濱鄉最小統計區人口密度比較圖(Jenks vs. Quantile)【豐濱鄉誌】](https://iong2k.github.io/portfolio/maps.html#id5)
+* [Cepo'戰役(大港口事件)要圖【豐濱鄉誌】](https://iong2k.github.io/portfolio/maps.html#id6)
 
 ### Online Interactive Exhibition/ 線上策展
 
